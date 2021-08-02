@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+#### Yet to Add
+
+- [ ] Recat Router
+- [ ] React Redux
+- [ ] Node SASS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
