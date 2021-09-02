@@ -4,6 +4,7 @@
 
 - [ ] Recat Router
 - [ ] React Redux
+- [ ] Redux Logger
 - [ ] Node SASS/SCSS - `npm install node-sass --save`
 - [ ] Include-Media (for SASS/SCSS) - `npm install include-media --save`
 
