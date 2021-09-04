@@ -3,6 +3,7 @@
 #### Yet to Add
 
 - [ ] Recat Router
+- [ ] Redux
 - [ ] React Redux
 - [ ] Redux Logger
 - [ ] Node SASS/SCSS - `npm install node-sass --save`
