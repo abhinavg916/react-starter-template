@@ -2,12 +2,13 @@
 
 #### Yet to Add
 
-- [ ] Recat Router
+- [ ] React Router
 - [ ] Redux
 - [ ] React Redux
 - [ ] Redux Logger
-- [ ] Node SASS/SCSS - `npm install node-sass --save`
-- [ ] Include-Media (for SASS/SCSS) - `npm install include-media --save`
+- [ ] Redux Thunk
+- [ ] Node SASS/SCSS using `npm install node-sass --save`
+- [ ] JSON Server (Optional)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
